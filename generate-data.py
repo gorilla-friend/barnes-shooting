@@ -20,4 +20,4 @@ df = pd.DataFrame(rows)
 df.columns = headers
 
 # Convert to CSV
-df.to_csv("barnes-shooting.csv", index=False)
+df.to_csv("barnes-shotchartdetail.csv", index=False)
